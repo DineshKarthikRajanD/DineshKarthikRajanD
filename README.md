@@ -1,20 +1,27 @@
-![Sujith Banner Image](./asserts/banner.png)
 <p align="center">
-  <a href="https://github.com/sujith017">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Welcome+to+Sujith%27s+Profile!;Aspiring+Full+Stack+Developer;AI%2FML+Enthusiast;LeetCode+Problem+Solver;Open+Source+Contributor;Passionate+about+Technology;Lifelong+Learner;Building+Innovative+Solutions;Explorer+of+New+Horizons;Turning+Ideas+into+Reality" alt="Typing Animation" />
+  <img src="https://raw.githubusercontent.com/dineshkarthikrajand/dineshkarthikrajand/main/assets/dinesh-banner.png" alt="Dinesh Banner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/dineshkarthikrajand">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dinesh+Karthik!;Full+Stack+Web+Developer;Java+%7C+React+%7C+Node.js+Enthusiast;Loves+to+Build+and+Learn;Traveller+%7C+Tea+Lover" alt="Typing SVG" />
   </a>
 </p>
 
-<br />
+---
 
-
-
-<!-- ### use to code  -->
-<p align="right">
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,java,js,linkedin,linux,neovim,netlify,postman,react,vite,vscode,express,gmail" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,vscode,tailwind,vercel" />
   </a>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
 
 
 <!-- ### Leetcode --> 
