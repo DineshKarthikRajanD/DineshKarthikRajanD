@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/dineshkarthikrajand">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dinesh+Karthik!;Full+Stack+Web+Developer;Java+%7C+React+%7C+Node.js+Enthusiast;Loves+to+Build+and+Learn;Traveller+%7C+Tea+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Dinesh+Karthik+Rajan+D!;Full+Stack+Web+Developer;Java+%7C+React+%7C+Node.js+Enthusiast;Loves+to+Build+and+Learn;Traveller+%7C+Tea+Lover" alt="Typing SVG" />
   </a>
 </p>
 
